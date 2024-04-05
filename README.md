@@ -1,2 +1,2 @@
 # Loading skeleton 
-this loading skeleton is runnning when ur net is slow.
+this loading skeleton is running when your net is slow.
